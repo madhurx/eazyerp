@@ -1,0 +1,10 @@
+{
+	"development": {
+		"username": "avnadmin",
+		"password": "pass123",
+		"host": "192.168.1.5",
+		"port": "5432",
+		"database": "defaultdb",
+		"dialect": "postgres"
+	}
+}
